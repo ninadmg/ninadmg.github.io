@@ -4,7 +4,7 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Ninad";
 
 const CARDS = [
   {
@@ -13,19 +13,19 @@ const CARDS = [
     link: "https://twitter.com",
   },
   {
-    name: "Hashnode",
-    icon: "ri-chat-1-fill",
-    link: "https://hashnode.com/",
+    name: "Notion",
+    icon: "ri-task-fill",
+    link: "https://www.notion.so/",
   },
   {
-    name: "CodeSandbox",
-    icon: "ri-cloud-fill",
-    link: "https://codesandbox.io/dashboard/",
+    name: "Gmail",
+    icon: "ri-mail-fill",
+    link: "https://mail.google.com/",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
+    name: "Amazon",
+    icon: "ri-amazon-fill",
+    link: "https://www.amazon.in/",
   },
   {
     name: "Reddit",
@@ -38,9 +38,9 @@ const CARDS = [
     link: "https://github.com/",
   },
   {
-    name: "Figma",
-    icon: "ri-brush-fill",
-    link: "https://www.figma.com/",
+    name: "Hacker News",
+    icon: "ri-article-fill",
+    link: "https://news.ycombinator.com/",
   },
   {
     name: "YouTube",
@@ -53,9 +53,9 @@ const CARDS = [
     link: "https://www.linkedin.com/",
   },
   {
-    name: "Gmail",
-    icon: "ri-google-fill",
-    link: "https://mail.google.com/",
+    name: "Calender",
+    icon: "ri-calendar-event-fill",
+    link: "https://calendar.google.com/",
   },
 ];
 
