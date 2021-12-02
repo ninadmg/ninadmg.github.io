@@ -19,7 +19,7 @@ body {
   color: var(--text-light);
   font-family: "Open Sans", sans-serif;
 
-  padding: 2rem 4rem;
+  padding: 1rem 2rem;
 
   background-color: var(--background);
   box-sizing: border-box;
@@ -81,7 +81,7 @@ main {
   text-decoration: none;
 
   margin: 2rem;
-  padding: 4rem 8rem;
+  padding: 2rem 4rem;
 
   background-color: var(--background-light);
   border-radius: 20px;
